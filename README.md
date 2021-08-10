@@ -1,1 +1,1 @@
-аналог сервиса time.is
+analog of the time.is service
